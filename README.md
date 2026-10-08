@@ -28,3 +28,4 @@ See the [workflow file](https://github.com/DumDum192/Amethyst-Offline/blob/main/
 
 ## License & Credits
 [Amethyst-Android](https://github.com/AngelAuraMC/Amethyst-Android/tree/v3_openjdk?tab=readme-ov-file#license) & [Amethyst-iOS](https://github.com/AngelAuraMC/Amethyst-iOS/tree/main?tab=readme-ov-file#contributors)
+ 
